@@ -1,7 +1,7 @@
 @echo off
 @setlocal enabledelayedexpansion
 
-:: The Function was created and enhanced by Hamza
+:: The Function was created and enhanced by Psi505
 :: You don't have the right to modify it...
 
 ::---- Abbreviations meaning ----::

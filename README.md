@@ -6,5 +6,4 @@ GUI Buttons.
  * There is comments in the "Button.bat" file to help understand how the program works.
 
 ## Screenshot
-* Example
 ![](https://raw.githubusercontent.com/Psi505/Batch-GUI-Button/main/image.png)

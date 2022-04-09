@@ -1,5 +1,5 @@
 ## About
-This is a very simple program that can be used in your batch projects as a function to diplay a very enhanced
+This is a very simple program that can be used in your batch projects as a function to display a very enhanced
 GUI Buttons.
 
  * Follow the example for usage.

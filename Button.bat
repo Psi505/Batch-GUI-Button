@@ -1,8 +1,7 @@
 @echo off
 @setlocal enabledelayedexpansion
 
-:: The Function was created and enhanced by Hamza
-:: You don't have the right to modify it...
+:: The Function was created and enhanced by Psi505
 
 ::---- Abbreviations meaning ----::
 :: XBPB = X Button Positin Begin

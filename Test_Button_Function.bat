@@ -1,6 +1,8 @@
 @Echo off
 @Mode 48,15
 @Title %~n0
+
+cd %~dp0 &:: Added line for program to work when run as admin
 Batbox /h 0
 
 :Loop

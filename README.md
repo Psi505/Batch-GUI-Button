@@ -1,5 +1,10 @@
-This is a very simple program that can be used in your batch projects as a function to diplay a very enhanced
-GUI Buttons.
+## About
+This repository contains a straightforward program designed for batch projects, offering an enhanced GUI Buttons function.
 
- * Follow the example for usage.
- * There is comments in the "Button.bat" file to help understand how the program works. 
+- Refer to the usage example provided.
+- Comments within the "Button.bat" file provide insights into the program's functionality.
+
+## Screenshot
+- Example
+
+![](https://raw.githubusercontent.com/Psi505/Folder-Locker/main/Screenshot.png)

@@ -7,4 +7,4 @@ This repository contains a straightforward program designed for batch projects, 
 
 ## Screenshot
 
-![](https://raw.githubusercontent.com/Psi505/Folder-Locker/main/Screenshot.png)
+![](https://raw.githubusercontent.com/Psi505/Batch-GUI-Button/main/Screenshot.png)
